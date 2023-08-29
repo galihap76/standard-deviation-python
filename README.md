@@ -1,1 +1,1 @@
-Standard deviation pada python untuk machine learning.
+Standard Deviation adalah salah satu konsep yang penting dalam statistika dan juga sering digunakan dalam machine learning. Ini adalah ukuran statistik yang mengukur sejauh mana data tersebar dari rata-rata (mean) dalam sebuah kumpulan data. Dalam konteks machine learning, Standard Deviation digunakan untuk mengukur variabilitas atau dispersi data di sekitar nilai rata-rata.
